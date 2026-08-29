@@ -20,7 +20,7 @@
   <strong>简体中文</strong>
 </p>
 
-QQ群：`1319014441`  
+QQ群：`745033528`  
 Telegram：`gglua8`
 
 ## 项目简介
@@ -151,7 +151,7 @@ Lua 转 DEX / LuaJ 编译后的 Lua2Java*.class
 
 ## 联系我们
 
-- QQ 群：`1319014441`
+- QQ 群：`745033528`
 - Telegram：`gglua8`
 
 <p align="center">
