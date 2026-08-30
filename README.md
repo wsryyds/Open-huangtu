@@ -14,6 +14,7 @@
   <img src="./png/1676E2B999046975C0BAC0C4E0A9383D.jpg" alt="项目展示" width="22%" />
   <img src="./png/8C256D3017B2E7CE2413B056A898E5E9.jpg" alt="项目展示" width="22%" />
   <img src="./png/QQ20260829-180208.png" alt="项目展示" width="18%" />
+  <img src="./png/5B01AFE3BB543B88365A5D159F051204.gif" alt="项目展示" width="18%" />
 </p>
 
 <p align="center">
